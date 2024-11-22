@@ -1,8 +1,11 @@
 ##Gesture Recognition System
-
+<br />
 Made in python & tensorflow
-
-To run this code:
-    create Python Virtual Envirmemt with python version(3.10.15)
-    Install requiremebts.txt with ```bash pip install -r requirement.txt ```
-    And run main.py
+<br />
+To run this code:<br />
+    create Python Virtual Envirmemt with python version(3.10.15)<br />
+    Install requiremebts.txt with 
+    ``` console 
+        pip install -r requirement.txt
+        python main.py
+     ```
